@@ -24,6 +24,30 @@ This model of this project is baesd on [YOLOV7-tiny](https://github.com/bubbliii
 1. To build **training** dataset, you'll also need following datasets.
 * [BDD100K](https://doc.bdd100k.com/download.html)
 
+2. Place the bkk100k images and its corresponding JSON file into folder, and run following script.
+```
+python read_bdd_json.py
+```
+3. Structure of the generated data should be：
+```
+├── new dataset folder
+    ├──Annotations
+    │  ├── b1c9c847-3bda4659.json
+    │  ├── b1c66a42-6f7d68ca.json
+    │  └── ...
+    ├──Images
+    │  ├── b1c9c847-3bda4659.jpg
+    │  ├── b1c66a42-6f7d68ca.jpg
+    │  └── ...
+    ├──Lanes
+    │  ├── b1c66a42-6f7d68ca.png
+    │  ├── b1c66a42-6f7d68ca.png
+    │  └── ...
+    ├──train.txt
+    ├──val.txt
+    └──class.txt
+```
+
 ## Getting Started:
 ### Usage
 * Training
