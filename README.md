@@ -1,4 +1,4 @@
-# Pedestrian-and-Vehical-Detection
+# BDD100K-YOLOv7-Nano
 
 ## Introduction
 The project will be updated continuously 
