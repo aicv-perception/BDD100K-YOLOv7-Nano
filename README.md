@@ -3,7 +3,7 @@
 ## Introduction
 The project will be updated continuously 
 
-This model of this project is baesd on [YOLOV7-tiny](https://github.com/bubbliiiing/yolov7-tiny-pytorch)
+<!--This model of this project is baesd on [YOLOV7-tiny](https://github.com/bubbliiiing/yolov7-tiny-pytorch)-->
 
 ## Requirements
 ### Dependencies
