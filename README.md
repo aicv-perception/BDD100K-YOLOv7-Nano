@@ -51,7 +51,7 @@ python read_bdd_json.py
 ```
 
 ## Pre-trained Model
-You can get the pre-trained model based on the original bdd100k annotation from <a  href="https://drive.google.com/file/d/14rixKpYkBFUbLHRWrnZi2h0BZR8XQgoU/view?usp=drive_link">here</a>.
+You can get the pre-trained model based on the original bdd100k annotation from <a  href="[https://drive.google.com/file/d/14rixKpYkBFUbLHRWrnZi2h0BZR8XQgoU/view?usp=drive_link](https://drive.google.com/file/d/1w1WeaOac6WeMfgXEZ9TgYtuRkCODIsyd/view?usp=sharing)">here</a>.
 
 
 ## Getting Started:
