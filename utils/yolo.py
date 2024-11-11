@@ -10,7 +10,7 @@ class YOLO(object):
         super(YOLO, self).__init__()
         self.confidence = 0.3
         self.nms_iou = 0.45
-        self.letterbox_image = False
+        self.letterbox_image = True
         self.anchors_mask = [[], [0, 1, 2, 3, 4, 5], []]
 
         self.classes_path = classes_path
