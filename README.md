@@ -50,19 +50,19 @@ python read_bdd_json.py
     └──class.txt
 ```
 
+## Pre-trained Model
+You can get the pre-trained model based on the original bdd100k annotation from <a  href="https://drive.google.com/file/d/14rixKpYkBFUbLHRWrnZi2h0BZR8XQgoU/view?usp=drive_link">here</a>.
+
+
 ## Getting Started:
 ### Usage
-* Training
-    * To train this code.
-    ```
-    python train.py
-    ```
+## Training
+Coming soon.....
 
-* Testing
-    * To test this code.
-    ```
-    python test.py
-    ```
+## Demo
+```
+python demo.py
+```
 
 ## Reference 
 [Official YOLOv7](https://github.com/WongKinYiu/yolov7)
