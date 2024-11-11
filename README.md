@@ -26,11 +26,11 @@ The project will be updated continuously.
 1. To build **training** dataset, you'll also need following datasets.
 * [BDD100K](https://doc.bdd100k.com/download.html)
 
-2. Place the bkk100k images and its corresponding JSON file into folder, and run following script.
+<!----2. Place the bkk100k images and its corresponding JSON file into folder, and run following script.
 ```
 python read_bdd_json.py
-```
-3. Structure of the generated data should be：
+```--->
+2. Structure of the generated data should be：
 ```
 ├── new dataset folder
     ├──Annotations
