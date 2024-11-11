@@ -2,7 +2,7 @@ import time
 import cv2
 import numpy as np
 from PIL import Image
-from yolo import YOLO
+from utils.yolo import YOLO
 import argparse
 import datetime
 x = datetime.datetime.now()
