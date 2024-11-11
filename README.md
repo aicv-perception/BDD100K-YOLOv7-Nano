@@ -55,13 +55,16 @@ You can get the pre-trained model based on the original bdd100k annotation from 
 
 
 ## Getting Started:
-
-## Training
+### Usage
+* Training
 Coming soon.....
-
-## Demo
+* Testing
 ```
-python demo.py
+python demo.py --cuda True --mode video --input_shape 640 640 --video_path /video/path --model_path /model/path --classes_path /class/path --anchors_path /anchor/path
+```
+### Demo
+```
+python demo.py --cuda True --mode  --video_path ./video.avi --model_path ./Nano640_bdd100k_original_annotation.pt --classes_path ./utils/bdd100k_class.txt --anchors_path ./utils/bdd_nano_640_6_anchors.txt
 ```
 
 ## Reference 
