@@ -56,7 +56,9 @@ You can get the pre-trained model based on the original bdd100k annotation from 
 
 ## Getting Started:
 ### Usage
+
 * Training
+
 Coming soon.....
 
 * Testing
