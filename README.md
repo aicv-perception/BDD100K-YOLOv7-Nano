@@ -1,4 +1,4 @@
-# BDD100K-YOLOv7-Nano
+# BDD100K YOLOv7 Nano
 
 ## Introduction
 The project will be updated continuously.
