@@ -67,7 +67,7 @@ python demo.py --cuda True --mode video --input_shape 640 640 --video_path /vide
 ```
 ### Demo
 ```
-python demo.py --cuda True --mode  --video_path ./video.avi --model_path ./Nano640_bdd100k_original_annotation.pt --classes_path ./utils/bdd100k_class.txt --anchors_path ./utils/bdd_nano_640_6_anchors.txt
+python demo.py --cuda True --mode video --video_path ./video.avi --model_path ./Nano640_bdd100k_original_annotation.pt --classes_path ./utils/bdd100k_class.txt --anchors_path ./utils/bdd_nano_640_6_anchors.txt
 ```
 
 ## Reference 
